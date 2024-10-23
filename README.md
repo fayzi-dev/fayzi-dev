@@ -1,9 +1,10 @@
 <img src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" alt="fayzi-dev" width="900" height="250" />
 <h1 align="center">Hi 👋, I'm Mohammad Fayzi</h1>
 <h3 align="center">developer of machine learning algorithms and very eager to learn in the field of artificial intelligence, especially in the area of deep learning</h3>
-<img align="right" alt="Fayzi-dev" width="400" src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fayzi-dev" /> </p> -->
+<!--<img align="right" alt="Fayzi-dev" width="400" src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" />
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fayzi-dev" /> </p> -->
 
 - 🔭 I’m currently working on **Machine Learning**
 
