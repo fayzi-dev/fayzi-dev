@@ -9,17 +9,17 @@
 ### **Skills**
 
 #### **Machine Learning**
-- <li>Python, TensorFlow, Keras, Scikit-learn</li>
-- <li>Supervised and unsupervised learning algorithms</li>
-- <li>Natural Language Processing (NLP)</li>
-- <li>Regression models, classification, neural networks, and deep learning</li>
-- <li>Data analysis and feature engineering</li>
+<li>Python, TensorFlow, Keras, Scikit-learn</li>
+<li>Supervised and unsupervised learning algorithms</li>
+<li>Natural Language Processing (NLP)</li>
+<li>Regression models, classification, neural networks, and deep learning</li>
+<li>Data analysis and feature engineering</li>
 
 #### **Programming Languages**
-- <li>Python, PHP</li>
-- <li>Solidity (Smart contract development)</li>
-- <li>Web3.js, Ethers.js</li>
-- <li>Remix IDE, Truffle, Hardhat</li>
+<li>Python, PHP</li>
+<li>Solidity (Smart contract development)</li>
+<li>Web3.js, Ethers.js</li>
+<li>Remix IDE, Truffle, Hardhat</li>
 
 #### **Tools and Technologies**
 - <li>Git, GitHub</li>
@@ -27,9 +27,9 @@
 - <li>Operating Systems: Linux, Windows, macOS</li>
 
 #### **Blockchain**
-- <li>Smart contract development with Solidity</li>
-- <li>Development of decentralized applications (dApps)</li>
-- <li>Interaction with Ethereum and Binance Smart Chain</li>
+<li>Smart contract development with Solidity</li>
+<li>Development of decentralized applications (dApps)</li>
+<li>Interaction with Ethereum and Binance Smart Chain</li>
   
 - 📫 How to reach me **fayzi.dev@gmail.com**
 
