@@ -1,17 +1,33 @@
 <img src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" alt="fayzi-dev" width="900" height="250" />
 <h1 align="center">Hi 👋, I'm Mohammad Fayzi</h1>
-<h3 align="center">developer of machine learning algorithms and very eager to learn in the field of artificial intelligence, especially in the area of deep learning</h3>
+<h3 align="center">Professional programmer with experience in machine learning and smart contract development using Solidity. Skilled in applying advanced machine learning algorithms and implementing them in various projects. Proven expertise in designing and deploying smart contracts for blockchain platforms and working with decentralized networks.</h3>
 
 <!--<img align="right" alt="Fayzi-dev" width="400" src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" />
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fayzi-dev" /> </p> -->
 
-- 🔭 I’m currently working on **Machine Learning**
++ Skills
+--Machine Learning
+---Python, TensorFlow, Keras, Scikit-learn
+---Supervised and unsupervised learning algorithms
+---Natural Language Processing (NLP)
+---Regression models, classification, neural networks, and deep learning
+---Data analysis and feature engineering
++ Programming Languages
+---Python, php
+---Solidity (Smart contract development)
+---Web3.js, Ethers.js
+---Remix IDE, Truffle, Hardhat
++ Tools and Technologies
+---Git, Github
+---Databases: MySQLL
+---Operating Systems: Linux, Windows, macOS
++Blockchain
+---Smart contract development with Solidity
+---Development of decentralized applications (dApps)
+---Interaction with Ethereum and Binance Smart Chain
 
-- 🌱 I’m currently learning **Pycaret scikit_learn tensorflow**
-
-- 💬 Ask me about **Pycaret Python scikit_learn Tensorflow Streamlit**
-
+  
 - 📫 How to reach me **fayzi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
