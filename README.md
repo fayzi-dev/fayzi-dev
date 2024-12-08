@@ -22,9 +22,9 @@
 <li>Remix IDE, Truffle, Hardhat</li>
 
 #### **Tools and Technologies**
-- <li>Git, GitHub</li>
-- <li>Databases: MySQL</li>
-- <li>Operating Systems: Linux, Windows, macOS</li>
+<li>Git, GitHub</li>
+<li>Databases: MySQL</li>
+<li>Operating Systems: Linux, Windows, macOS</li>
 
 #### **Blockchain**
 <li>Smart contract development with Solidity</li>
