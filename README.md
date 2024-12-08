@@ -7,25 +7,25 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fayzi-dev" /> </p> -->
 
 + Skills
-++Machine Learning
-+++Python, TensorFlow, Keras, Scikit-learn
----Supervised and unsupervised learning algorithms
----Natural Language Processing (NLP)
----Regression models, classification, neural networks, and deep learning
++Machine Learning
+--- Python, TensorFlow, Keras, Scikit-learn
+--- Supervised and unsupervised learning algorithms
+--- Natural Language Processing (NLP)
+--- Regression models, classification, neural networks, and deep learning
 ---Data analysis and feature engineering
 + Programming Languages
----Python, php
----Solidity (Smart contract development)
----Web3.js, Ethers.js
----Remix IDE, Truffle, Hardhat
+--- Python, php
+--- Solidity (Smart contract development)
+--- Web3.js, Ethers.js
+--- Remix IDE, Truffle, Hardhat
 + Tools and Technologies
----Git, Github
----Databases: MySQLL
----Operating Systems: Linux, Windows, macOS
-+Blockchain
----Smart contract development with Solidity
----Development of decentralized applications (dApps)
----Interaction with Ethereum and Binance Smart Chain
+--- Git, Github
+--- Databases: MySQLL
+--- Operating Systems: Linux, Windows, macOS
++ Blockchain
+--- Smart contract development with Solidity
+--- Development of decentralized applications (dApps)
+--- Interaction with Ethereum and Binance Smart Chain
 
   
 - 📫 How to reach me **fayzi.dev@gmail.com**
