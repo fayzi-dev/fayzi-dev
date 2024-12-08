@@ -7,8 +7,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fayzi-dev" /> </p> -->
 
 + Skills
---Machine Learning
----Python, TensorFlow, Keras, Scikit-learn
+++Machine Learning
++++Python, TensorFlow, Keras, Scikit-learn
 ---Supervised and unsupervised learning algorithms
 ---Natural Language Processing (NLP)
 ---Regression models, classification, neural networks, and deep learning
