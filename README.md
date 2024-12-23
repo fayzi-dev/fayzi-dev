@@ -6,7 +6,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="fayzi-dev" /> </p> -->
 
-### **Skills**
+# **Skills**
 
 #### **Machine Learning**
 <li>Python, TensorFlow, Keras, Scikit-learn</li>
