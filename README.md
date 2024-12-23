@@ -1,6 +1,6 @@
 <!--<img src="" alt="fayzi-dev" width="900" height="250" /> -->
 <h1 align="center">Hi 👋, I'm Mohammad Fayzi</h1>
-<h3 align="center">Professional programmer with experience in machine learning and smart contract development using Solidity. Skilled in applying advanced machine learning algorithms and implementing them in various projects. Proven expertise in designing and deploying smart contracts for blockchain platforms and working with decentralized networks.</h3>
+<!-- <h3 align="center">Professional programmer with experience in machine learning and smart contract development using Solidity. Skilled in applying advanced machine learning algorithms and implementing them in various projects. Proven expertise in designing and deploying smart contracts for blockchain platforms and working with decentralized networks.</h3> -->
 
 <!--<img align="right" alt="Fayzi-dev" width="400" src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" />
 
