@@ -43,7 +43,9 @@ To tackle this challenge, automatic thresholding methods using deep learning hav
    - **Publication Year**: 2023/5/30
    - **Link to the Paper**:<a href="https://arxiv.org/abs/2306.14250" target="blank">Link to the Paper</a>
 
-- 📫 How to reach me **fayzi.dev@gmail.com**
+
+# contact us
+ ## 📫 How to reach me **fayzi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
