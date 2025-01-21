@@ -1,6 +1,7 @@
 <!--<img src="" alt="fayzi-dev" width="900" height="250" /> -->
 <h1 align="center">Hi 👋, I'm Mohammad Fayzi</h1>
-<h3 align="center">Professional programmer with experience in machine learning and smart contract development using Solidity. Skilled in applying advanced machine learning algorithms and implementing them in various projects. Proven expertise in designing and deploying smart contracts for blockchain platforms and working with decentralized networks.</h3>
+<h3 align="center">
+I'm coding machine learning models and constantly learning and improving my skills in this field.</h3>
 
 <!--<img align="right" alt="Fayzi-dev" width="400" src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" />
 
@@ -16,20 +17,13 @@
 <li>Data analysis and feature engineering</li>
 
 #### **Programming Languages**
-<li>Python, PHP</li>
-<li>Solidity (Smart contract development)</li>
-<li>Web3.js, Ethers.js</li>
-<li>Remix IDE, Truffle, Hardhat</li>
+<li>Python</li>
 
 #### **Tools and Technologies**
 <li>Git, GitHub</li>
 <li>Databases: MySQL</li>
 <li>Operating Systems: Linux, Windows, macOS</li>
 
-#### **Blockchain**
-<li>Smart contract development with Solidity</li>
-<li>Development of decentralized applications (dApps)</li>
-<li>Interaction with Ethereum and Binance Smart Chain</li>
 
 # Introducing Specialized Articles
 
