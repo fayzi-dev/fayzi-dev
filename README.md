@@ -1,7 +1,7 @@
 <!--<img src="" alt="fayzi-dev" width="900" height="250" /> -->
 <h1 align="center">Hi 👋, I'm Mohammad Fayzi</h1>
 <h3 align="center">
-I'm coding machine learning models and constantly learning and improving my skills in this field.</h3>
+I am an artificial intelligence programmer specializing in computer vision and various AI-related projects and research. My work focuses on developing machine learning and deep learning models to solve complex problems in these fields. I am constantly learning and refining my technical skills to stay up-to-date with the latest advancements.</h3>
 
 <!--<img align="right" alt="Fayzi-dev" width="400" src="https://github.com/fayzi-dev/fayzi-dev/blob/main/1697089776871.gif" />
 
