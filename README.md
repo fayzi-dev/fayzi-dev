@@ -10,15 +10,15 @@ I'm coding machine learning models and constantly learning and improving my skil
 # **Skills**
 
 #### **Machine Learning**
-<li>Python, TensorFlow, Keras, Scikit-learn</li>
-<li>Supervised and unsupervised learning algorithms</li>
-<li>Natural Language Processing (NLP)</li>
-<li>Regression models, classification, neural networks, and deep learning</li>
+<li>Python, TensorFlow, Scikit-learn ,...</li>
+<li>Supervised and unsupervised learning algorithms ...</li>
+<li>Regression models, classification, neural networks, and deep learning </li>
 <li>Data analysis and feature engineering</li>
 
 #### **Programming Languages**
 <li>Python</li>
-
+<li>PHP</li>
+<li>javascript</li>
 #### **Tools and Technologies**
 <li>Git, GitHub</li>
 <li>Databases: MySQL</li>
