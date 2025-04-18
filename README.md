@@ -10,7 +10,7 @@ I am an artificial intelligence programmer specializing in computer vision and v
 # **Skills**
 
 #### **Machine Learning**
-<li>Python, TensorFlow, Scikit-learn ,...</li>
+<li>PyTorch , TensorFlow, Scikit-learn ,...</li>
 <li>Supervised and unsupervised learning algorithms ...</li>
 <li>Regression models, classification, neural networks, and deep learning </li>
 <li>Data analysis and feature engineering</li>
