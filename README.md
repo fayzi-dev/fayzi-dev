@@ -9,7 +9,7 @@ I am an artificial intelligence programmer specializing in computer vision and v
 
 # **Skills**
 
-#### **Machine Learning**
+#### **Experience using**
 <li>PyTorch , Hugging Face, Scikit-learn ,...</li>
 <li>Supervised and unsupervised learning algorithms ...</li>
 <li>Regression models, classification, neural networks, and deep learning </li>
