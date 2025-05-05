@@ -19,6 +19,12 @@ I am an artificial intelligence programmer specializing in computer vision and v
 <li>Python</li>
 <li>PHP</li>
 <li>javascript</li>
+
+#### **Frontend Tools**
+<li>HTML</li>
+<li>Bootstrap</li>
+<li>jQuery</li>
+
 #### **Tools and Technologies**
 <li>Git, GitHub</li>
 <li>Databases: MySQL</li>
