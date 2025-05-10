@@ -10,9 +10,9 @@ I am an artificial intelligence programmer specializing in computer vision and v
 # **Skills**
 
 #### **Experience using**
-<li>PyTorch , Hugging Face, Scikit-learn ,...</li>
+<li>PyTorch , OpenCV, Hugging Face, Scikit-learn ,...</li>
 <li>Supervised and unsupervised learning algorithms ...</li>
-<li>Regression models, classification, neural networks, and deep learning </li>
+<li> deep learning ,Regression models, classification, neural networks, ... </li>
 <li>Data analysis and feature engineering</li>
 
 #### **Programming Languages**
