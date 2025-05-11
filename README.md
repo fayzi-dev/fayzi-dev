@@ -26,9 +26,9 @@ I am an artificial intelligence programmer specializing in computer vision and v
 <li>jQuery</li>
 
 #### **Tools and Technologies**
-<li>Git, GitHub</li>
+<li>Git, GitHub, pip , Anaconda, miniconda</li>
 <li>Databases: MySQL</li>
-<li>Operating Systems: Linux, Windows, macOS</li>
+<li>Operating Systems: Windows, Linux, macOS</li>
 
 
 # Introducing Specialized Articles
