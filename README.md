@@ -26,6 +26,7 @@ I am an artificial intelligence programmer specializing in computer vision and v
 <li>Bootstrap</li>
 <li>jQuery</li>
 <li>Css</li>
+
 #### **Tools and Technologies**
 <li>Git, GitHub, pip , Anaconda, Miniconda</li>
 <li>Databases: MySQL</li>
